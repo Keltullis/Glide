@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Glide</string>
+    <string name="get_random_Image_button">GET RANDOM IMAGE</string>
+    <string name="get_random_quote_button">GET RANDOM QUOTE</string>
+    <string name="quoteTv">League Legends Quote</string>
+    <string name="enter_image_keyword">Enter image keyword</string>
+    <string name="use_keyword">Use keyword</string>
+</resources>
